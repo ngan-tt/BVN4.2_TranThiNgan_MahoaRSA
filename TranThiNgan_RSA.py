@@ -20,6 +20,6 @@ C = [pow(m, e, n) for m in numbers]
 print("n =", n)
 print("phi(n) =", phi)
 print("e =", e)
-print("Thong diep:", P)
+print("Thông điệp:", P)
 print("Dãy số ban đầu:", numbers)
 print("Bản mã RSA:", C)
